@@ -7,7 +7,9 @@ margin-bottom: 70px;
 }
 .h3{
   direction: rtl;
+background-color: darkslategray;
 
+border-radius: 10px;
 }
 .costa{
   color:red
@@ -29,14 +31,22 @@ margin-bottom: 70px;
 }
 .display{
   display:inline;
-}
-.table , th , td{
-border:10px solid white;
-  border-collapse: collapse;
-  padding-bottom:100px;
-  padding-left: 50px;
   
 }
+.table , th , td{
+border:4px solid black;
+  border-collapse: collapse;
+  border-radius: 100px;
+  margin-left: 450px;
+
+  
+  
+}
+.center{
+  padding-left: 21px;
+}
+
+
 
 /* td {
   background-color: orange;
@@ -80,5 +90,10 @@ border:10px solid white;
 } */
 
 body {
-  background-color: grey;
+  background-color: coral;
 } 
+.h3eng{
+  background-color: darkslategray;
+
+border-radius: 10px;
+}
