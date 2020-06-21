@@ -1,3 +1,43 @@
+.p{
+direction: rtl;
+margin-bottom: 70px;
+}
+.starbucks{
+  color:green;
+}
+.h3{
+  direction: rtl;
+
+}
+.costa{
+  color:red
+}
+.caribou{
+  color:blue;
+}
+.starbucks2{
+  background-color:green ;
+}
+.costa2{
+  background-color:red ;
+}
+.caribou2{
+  background-color: blue;
+}
+.ul{
+  list-style-type: none;
+}
+.display{
+  display:inline;
+}
+.table , th , td{
+border:10px solid white;
+  border-collapse: collapse;
+  padding-bottom:100px;
+  padding-left: 50px;
+  
+}
+
 /* td {
   background-color: orange;
 } */
@@ -39,6 +79,6 @@
   color: white;
 } */
 
-/* body {
+body {
   background-color: grey;
-} */
+} 
